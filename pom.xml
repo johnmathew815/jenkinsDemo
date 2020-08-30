@@ -45,6 +45,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
+				
 				<objectStoreV2>true</objectStoreV2>
 				<muleVersion>4.3.0</muleVersion>
 				<username>${username}</username>
