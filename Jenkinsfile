@@ -18,7 +18,7 @@ pipeline
 	 stage('PERFORM REGRESSION TESTING'){
 	 
 	 steps{
-	 bat 'newman run C:\\Users\\John\\Desktop\\muleMavenCollection.postman_collection.json --disable-unicode'
+	 bat 'C:\\Users\\John\\AppData\\Roaming\\npm\\newman run C:\\Users\\John\\Desktop\\muleMavenCollection.postman_collection.json --disable-unicode'
 	 }
 	 }
 	 
